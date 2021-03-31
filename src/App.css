@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.container {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.button {
+  font-size: 45px;
+  margin: 20px;
+  width: 50px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
