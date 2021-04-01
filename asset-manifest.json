@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.8f20d191.chunk.js",
-    "main.js.map": "/static/js/main.8f20d191.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.563b73e8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.563b73e8.js.map",
-    "static/js/2.05144835.chunk.js": "/static/js/2.05144835.chunk.js",
-    "static/js/2.05144835.chunk.js.map": "/static/js/2.05144835.chunk.js.map",
-    "static/js/3.0621c4ed.chunk.js": "/static/js/3.0621c4ed.chunk.js",
-    "static/js/3.0621c4ed.chunk.js.map": "/static/js/3.0621c4ed.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.05144835.chunk.js.LICENSE.txt": "/static/js/2.05144835.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/tajweed_web/static/css/main.236cc936.chunk.css",
+    "main.js": "/tajweed_web/static/js/main.ea7edb49.chunk.js",
+    "main.js.map": "/tajweed_web/static/js/main.ea7edb49.chunk.js.map",
+    "runtime-main.js": "/tajweed_web/static/js/runtime-main.7ee0f1b4.js",
+    "runtime-main.js.map": "/tajweed_web/static/js/runtime-main.7ee0f1b4.js.map",
+    "static/css/2.13fd37b7.chunk.css": "/tajweed_web/static/css/2.13fd37b7.chunk.css",
+    "static/js/2.b730fcbf.chunk.js": "/tajweed_web/static/js/2.b730fcbf.chunk.js",
+    "static/js/2.b730fcbf.chunk.js.map": "/tajweed_web/static/js/2.b730fcbf.chunk.js.map",
+    "static/js/3.dbedd4dd.chunk.js": "/tajweed_web/static/js/3.dbedd4dd.chunk.js",
+    "static/js/3.dbedd4dd.chunk.js.map": "/tajweed_web/static/js/3.dbedd4dd.chunk.js.map",
+    "index.html": "/tajweed_web/index.html",
+    "static/css/2.13fd37b7.chunk.css.map": "/tajweed_web/static/css/2.13fd37b7.chunk.css.map",
+    "static/css/main.236cc936.chunk.css.map": "/tajweed_web/static/css/main.236cc936.chunk.css.map",
+    "static/js/2.b730fcbf.chunk.js.LICENSE.txt": "/tajweed_web/static/js/2.b730fcbf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tajweed_web/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.563b73e8.js",
-    "static/js/2.05144835.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.8f20d191.chunk.js"
+    "static/js/runtime-main.7ee0f1b4.js",
+    "static/css/2.13fd37b7.chunk.css",
+    "static/js/2.b730fcbf.chunk.js",
+    "static/css/main.236cc936.chunk.css",
+    "static/js/main.ea7edb49.chunk.js"
   ]
 }
