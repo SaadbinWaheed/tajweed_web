@@ -4,6 +4,7 @@ const QaidaTable = () => {
   const alif = "https://quranforkids.org/wp-content/uploads/2013/04/Alphabet-Forms.mp3";
   const ba = "https://quranforkids.org/wp-content/uploads/2013/04/Alphabet-Forms_2.mp3";
   const ta = "https://quranforkids.org/wp-content/uploads/2013/04/Alphabet-Forms_3.mp3";
+ 
   const audioLinks = [alif,ba,ta,
   "https://quranforkids.org/wp-content/uploads/2013/04/Alphabet-Forms_4.mp3",
   "https://quranforkids.org/wp-content/uploads/2013/04/Alphabet-Forms_5.mp3",
@@ -46,9 +47,9 @@ const QaidaTable = () => {
   return (
     <div className="container">
       <div class="row flex-row-reverse">
-        <div class="col-sm ">
+        <div class="col-sm">
 
-          <button className="button" onClick={() => {
+          <button className="button" id="buttonId" onClick={() => {
             playAudio(audioLinks[0])
           }}>
             ا
@@ -275,4 +276,6 @@ const QaidaTable = () => {
     </div >
   )
 }
+
+
 export default QaidaTable;

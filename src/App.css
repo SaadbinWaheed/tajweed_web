@@ -42,7 +42,9 @@
   font-weight: bold;
 
 }
-
+.myButton {
+  width: 200px;
+}
 .buttonContainer {
   z-index: 50px;
   border: white;
