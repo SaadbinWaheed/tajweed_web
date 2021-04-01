@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tajweed_web/static/css/main.236cc936.chunk.css",
-    "main.js": "/tajweed_web/static/js/main.ea7edb49.chunk.js",
-    "main.js.map": "/tajweed_web/static/js/main.ea7edb49.chunk.js.map",
+    "main.js": "/tajweed_web/static/js/main.b4629fb1.chunk.js",
+    "main.js.map": "/tajweed_web/static/js/main.b4629fb1.chunk.js.map",
     "runtime-main.js": "/tajweed_web/static/js/runtime-main.7ee0f1b4.js",
     "runtime-main.js.map": "/tajweed_web/static/js/runtime-main.7ee0f1b4.js.map",
     "static/css/2.13fd37b7.chunk.css": "/tajweed_web/static/css/2.13fd37b7.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.13fd37b7.chunk.css",
     "static/js/2.b730fcbf.chunk.js",
     "static/css/main.236cc936.chunk.css",
-    "static/js/main.ea7edb49.chunk.js"
+    "static/js/main.b4629fb1.chunk.js"
   ]
 }
