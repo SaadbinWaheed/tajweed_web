@@ -29,18 +29,18 @@
 }
 
 .container {
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: flex-start;
   border: 1px solid white;
   border-radius: 5px;
   padding: 10px;
 }
 .button {
-  font-size: 45px;
+  font-size: 75px;
   margin: 20px;
   width: 80px;
   border-radius: 5px;
+  font-family: arabtype, Arial, serif;
+  font-weight: bold;
+
 }
 
 .buttonContainer {
@@ -55,4 +55,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@font-face {
+  font-family: 'A_Nefel_Adeti';
+  src: local('A_Nefel_Adeti'), url(./fonts/A_Nefel_Adeti.ttf) format('opentype');
+}
+
+
+@font-face {
+  font-family: 'arabtype';
+  src: local('arabtype'), url(./fonts/arabtype.ttf) format('opentype');
 }
