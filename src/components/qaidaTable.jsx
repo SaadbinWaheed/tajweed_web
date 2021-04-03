@@ -60,7 +60,6 @@ const QaidaTable = () => {
             <Row alphabets={alphabets.slice(21,24)} audioLinks={audioLinks.slice(21,24)}/>
             <Row alphabets={alphabets.slice(24,27)} audioLinks={audioLinks.slice(24,27)}/>
             <Row alphabets={alphabets.slice(27,30)} audioLinks={audioLinks.slice(27,30)}/>
-            )
             </div >)}
         }
 /*
