@@ -13,6 +13,12 @@
   }
 }
 
+@media screen and (max-width: 768px) {
+  .button {
+    background-color: black;
+  }
+}
+
 .App-header {
   background-color: #314263;
   min-height: 10vh;
@@ -45,6 +51,9 @@
   border-radius: 5px;
   font-family: arabtype, Arial, serif;
   font-weight: bold;
+  background: lightgoldenrodyellow;
+  border: 1px solid #1f441b;
+  cursor: pointer;
 
 }
 .myButton {
