@@ -11,9 +11,6 @@ function App() {
     <div className="App">
       <header className="App-header">
       </header>
-    {arr.map((val)=>{
-      return <ArabicButton foo={val}/>
-    })}
      <QaidaTable/>
     </div>
   );

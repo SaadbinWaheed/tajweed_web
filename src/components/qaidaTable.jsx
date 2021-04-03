@@ -46,8 +46,8 @@ const QaidaTable = () => {
   const [isPlaying, setIsPlaying] = useState(false);
   return (
     <div className="container">
-      <div class="row flex-row-reverse">
-        <div class="col-sm">
+      <div class="row justify-content-center flex-row-reverse">
+        <div class="col-2 right-offset-1">
 
           <button className="button" id="buttonId" onClick={() => {
             playAudio(audioLinks[0])
@@ -55,7 +55,7 @@ const QaidaTable = () => {
             ا
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
 
 
           <button className="button" onClick={() => {
@@ -64,21 +64,21 @@ const QaidaTable = () => {
             ب
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[2])
           }}>
             ت
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[3])
           }}>
             ث
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[4])
           }}>
@@ -86,36 +86,36 @@ const QaidaTable = () => {
         </button>
         </div>
       </div>
-      <div class="row flex-row-reverse ">
-        <div class="col-sm">
+      <div class="row justify-content-center flex-row-reverse ">
+        <div class="col-2 right-offset-1">
           <button className="button" onClick={() => {
             playAudio(audioLinks[5])
           }}>
             ح
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[6])
           }}>
             خ
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[7])
           }}>
             د
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[8])
           }}>
             ذ
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[9])
           }}>
@@ -123,36 +123,36 @@ const QaidaTable = () => {
         </button>
         </div>
       </div>
-      <div class="row flex-row-reverse">
-        <div class="col-sm">
+      <div class="row justify-content-center flex-row-reverse">
+        <div class="col-2 right-offset-1">
           <button className="button" onClick={() => {
             playAudio(audioLinks[10])
           }}>
             ز
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[11])
           }}>
             س
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[12])
           }}>
             ش
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[13])
           }}>
             ص
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[14])
           }}>
@@ -160,36 +160,36 @@ const QaidaTable = () => {
         </button>
         </div>
       </div>
-      <div class="row flex-row-reverse">
-        <div class="col-sm">
+      <div class="row justify-content-center flex-row-reverse">
+        <div class="col-2 right-offset-1">
           <button className="button" onClick={() => {
             playAudio(audioLinks[15])
           }}>
             ط
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[16])
           }}>
             ظ
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[17])
           }}>
             ع
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[18])
           }}>
             غ
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[19])
           }}>
@@ -197,15 +197,15 @@ const QaidaTable = () => {
         </button>
         </div>
       </div>
-      <div class="row flex-row-reverse">
-        <div class="col-sm">
+      <div class="row justify-content-center flex-row-reverse">
+        <div class="col-2 right-offset-1">
           <button className="button" onClick={() => {
             playAudio(audioLinks[20])
           }}>
             ق
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
 
           <button className="button" onClick={() => {
             playAudio(audioLinks[21])
@@ -213,21 +213,21 @@ const QaidaTable = () => {
             ك
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[22])
           }}>
             ل
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[23])
           }}>
             م
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[24])
           }}>
@@ -235,36 +235,36 @@ const QaidaTable = () => {
         </button>
         </div>
       </div>
-      <div class="row flex-row-reverse">
-        <div class="col-sm">
+      <div class="row justify-content-center flex-row-reverse">
+        <div class="col-2 right-offset-1">
           <button className="button" onClick={() => {
             playAudio(audioLinks[26])
           }}>
             و
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[25])
           }}>
             ھ
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
            // playAudio(audioLinks[27])
           }}>
             ء
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[27])
           }}>
             ي
         </button>
         </div>
-        <div class="col-sm">
+        <div class="col-2">
           <button className="button" onClick={() => {
             playAudio(audioLinks[27])
           }}>
