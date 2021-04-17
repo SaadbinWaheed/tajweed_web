@@ -69,6 +69,18 @@
   padding: 10px;
 }
 
+
+.navButton{
+  color: rgb(215, 252, 255);
+  background-color: rgb(4, 16, 87);
+  border: none;
+  border-radius: 50%;
+  font-size: large;
+  
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
