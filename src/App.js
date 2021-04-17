@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+      <img src={logo} height={100} width={300}/>LEARNING TAJWEED 
       </header>
      <QaidaTable/>
     </div>
