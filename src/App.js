@@ -18,9 +18,9 @@ function App() {
     <div className="App">
       <Navigation/> 
       <header className="App-header">
-      <h1 style={{marginLeft: ".3in"}}/> 
+      <h1 style={{marginRight: "-0.6in"}}/> 
       <ReactRoundedImage  image={quran}  imageWidth="60"  imageHeight="60"  roundedSize="5.9"/>  
-      <h1 style={{marginLeft: ".2in"}}/> 
+      <h1 style={{marginLeft: ".1in"}}/> 
       <strong> DIGITAL QAIDA </strong>
       </header>
      <QaidaTable/>
