@@ -79,6 +79,17 @@
   
 }
 
+.top-Header{
+background-color: #314263;
+min-height: 5vh;
+display: flex;
+flex-direction: row;
+align-items: center;
+font-size: calc(10px + 2vmin);
+color: white;
+}
+
+
 
 
 @keyframes App-logo-spin {

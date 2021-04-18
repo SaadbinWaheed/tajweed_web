@@ -14,7 +14,7 @@ const goBack = () =>
 
 return (
     <div>
-        <header className = "App-header">
+        <header className = "top-Header">
   <button className ="navButton" onClick={goBack}>
     ←   
   </button>
