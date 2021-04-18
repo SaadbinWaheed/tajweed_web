@@ -15,11 +15,12 @@
 
 
 .App-header {
-  background-color: #314263;
+  background-color: #061533;
   min-height: 10vh;
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 
@@ -76,17 +77,20 @@
   border: none;
   border-radius: 50%;
   font-size: large;
-  
+  margin-left: .05in
+
 }
 
 .top-Header{
-background-color: #314263;
+background-color: #061533;
 min-height: 5vh;
 display: flex;
 flex-direction: row;
 align-items: center;
 font-size: calc(10px + 2vmin);
 color: white;
+
+
 }
 
 
