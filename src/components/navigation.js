@@ -16,10 +16,10 @@ return (
     <div>
         <header className = "top-Header">
   <button className ="navButton" onClick={goBack}>
-    ←   
+   <strong> ← </strong> 
   </button>
   <button className ="navButton" onClick={goNext}>
-  →
+   <strong> → </strong> 
   </button>
   </header>
   </div>

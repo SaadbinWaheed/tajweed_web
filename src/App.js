@@ -16,12 +16,7 @@ function App() {
     <div className="App">
       <Navigation/> 
       <header className="App-header">
-      <ReactRoundedImage 
-      image={quran} 
-      imageWidth="60"
-      imageHeight="60"
-      roundedSize="5.9"/>
-       DIGITAL QAIDA
+      <ReactRoundedImage  image={quran}  imageWidth="60"  imageHeight="60"  roundedSize="5.9"/> <strong> DIGITAL QAIDA </strong>
       </header>
      <QaidaTable/>
     </div>
