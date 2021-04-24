@@ -15,14 +15,15 @@
 
 
 .App-header {
-  background-color: #314263;
+  background-color: #061533;
   min-height: 10vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(25.3px + 2vmin);
   color: white;
+
 }
 
 .App-link {
@@ -68,6 +69,33 @@
   border: white;
   padding: 10px;
 }
+
+
+.navButton{
+  color: rgb(215, 252, 255);
+  background-color: rgb(4, 16, 87);
+  border: none;
+  border-radius: 50%;
+  font-size: large;
+  margin-left: .05in
+
+}
+
+.top-Header{
+background-color: #061533;
+min-height: 5vh;
+display: flex;
+flex-direction: row;
+align-items: center;
+font-size: calc(10px + 2vmin);
+color: white;
+
+
+}
+
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
