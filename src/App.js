@@ -10,9 +10,6 @@ import ReactRoundedImage from "react-rounded-image";
 
 function App() {
 
- var arr = ["A","B","C","D"]
-
- 
   return (
 
     <div className="App">
