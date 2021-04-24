@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/tajweed_web/static/css/main.56d80b11.chunk.css",
-    "main.js": "/tajweed_web/static/js/main.7f16516c.chunk.js",
-    "main.js.map": "/tajweed_web/static/js/main.7f16516c.chunk.js.map",
-    "runtime-main.js": "/tajweed_web/static/js/runtime-main.7ee0f1b4.js",
-    "runtime-main.js.map": "/tajweed_web/static/js/runtime-main.7ee0f1b4.js.map",
+    "main.css": "/tajweed_web/static/css/main.12fb3993.chunk.css",
+    "main.js": "/tajweed_web/static/js/main.1a26ed78.chunk.js",
+    "main.js.map": "/tajweed_web/static/js/main.1a26ed78.chunk.js.map",
+    "runtime-main.js": "/tajweed_web/static/js/runtime-main.bbb861bb.js",
+    "runtime-main.js.map": "/tajweed_web/static/js/runtime-main.bbb861bb.js.map",
     "static/css/2.13fd37b7.chunk.css": "/tajweed_web/static/css/2.13fd37b7.chunk.css",
-    "static/js/2.b730fcbf.chunk.js": "/tajweed_web/static/js/2.b730fcbf.chunk.js",
-    "static/js/2.b730fcbf.chunk.js.map": "/tajweed_web/static/js/2.b730fcbf.chunk.js.map",
-    "static/js/3.dbedd4dd.chunk.js": "/tajweed_web/static/js/3.dbedd4dd.chunk.js",
-    "static/js/3.dbedd4dd.chunk.js.map": "/tajweed_web/static/js/3.dbedd4dd.chunk.js.map",
+    "static/js/2.9c6d1bba.chunk.js": "/tajweed_web/static/js/2.9c6d1bba.chunk.js",
+    "static/js/2.9c6d1bba.chunk.js.map": "/tajweed_web/static/js/2.9c6d1bba.chunk.js.map",
+    "static/js/3.4ae8d9ed.chunk.js": "/tajweed_web/static/js/3.4ae8d9ed.chunk.js",
+    "static/js/3.4ae8d9ed.chunk.js.map": "/tajweed_web/static/js/3.4ae8d9ed.chunk.js.map",
     "index.html": "/tajweed_web/index.html",
     "static/css/2.13fd37b7.chunk.css.map": "/tajweed_web/static/css/2.13fd37b7.chunk.css.map",
-    "static/css/main.56d80b11.chunk.css.map": "/tajweed_web/static/css/main.56d80b11.chunk.css.map",
-    "static/js/2.b730fcbf.chunk.js.LICENSE.txt": "/tajweed_web/static/js/2.b730fcbf.chunk.js.LICENSE.txt",
+    "static/css/main.12fb3993.chunk.css.map": "/tajweed_web/static/css/main.12fb3993.chunk.css.map",
+    "static/js/2.9c6d1bba.chunk.js.LICENSE.txt": "/tajweed_web/static/js/2.9c6d1bba.chunk.js.LICENSE.txt",
     "static/media/App.css": "/tajweed_web/static/media/arabtype.9fd47b63.ttf",
-    "static/media/logo.6ce24c58.svg": "/tajweed_web/static/media/logo.6ce24c58.svg"
+    "static/media/quran.2d434536.jpg": "/tajweed_web/static/media/quran.2d434536.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ee0f1b4.js",
+    "static/js/runtime-main.bbb861bb.js",
     "static/css/2.13fd37b7.chunk.css",
-    "static/js/2.b730fcbf.chunk.js",
-    "static/css/main.56d80b11.chunk.css",
-    "static/js/main.7f16516c.chunk.js"
+    "static/js/2.9c6d1bba.chunk.js",
+    "static/css/main.12fb3993.chunk.css",
+    "static/js/main.1a26ed78.chunk.js"
   ]
 }
